@@ -11681,11 +11681,11 @@ body {
 }
 .contact-section .social a {
   text-align: center;
-  height: 5rem;
-  width: 5rem;
+  height: 3rem;
+  width: 3rem;
   background: rgba(255, 255, 255, 0.1);
   border-radius: 100%;
-  line-height: 6rem;
+  line-height: 3rem;
   color: rgba(255, 255, 255, 0.3);
 }
 .contact-section .social a:hover {
