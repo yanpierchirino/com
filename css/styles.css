@@ -7954,7 +7954,7 @@ textarea.form-control-lg {
 
 .text-black-50 {
   --bs-text-opacity: 1;
-  color: rgba(0, 0, 0, 0.5) !important;
+  color: rgba(0, 0, 0, ) !important;
 }
 
 .text-white-50 {
@@ -11657,7 +11657,9 @@ body {
   letter-spacing: 0.15rem;
   border: 0;
 }
-
+.page-section {
+  padding: 8rem 0;
+}
 .contact-section {
   padding-top: 5rem;
 }
